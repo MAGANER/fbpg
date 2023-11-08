@@ -13,5 +13,6 @@ Example:```fbpg . 24```<br>
 # Passwords examples
 iio-i40-4639-au-a34-xm-41d-t32<br>
 u40i-eo-32r-r32-tt-13g-y32-cv<br>
-oPt-3232-at-tS-33e-3210-dg-se<br>
+pms-y58-it-nn-ra-he?95!-32e<br>
 3258a-34e-ox-sE-4658-4740-r13-3244<br>
+txa-<a-g@-10l-ra-o32-3432-bl<br>
