@@ -79,8 +79,7 @@ def insert_special_characters(sequence):
     numbers_positions = get_numbers_of_3_digits(sequence)
     
     if not numbers_positions:
-        print("fbpg warning: failed to insert special characters!")
-        return sequence
+        numbers_positions = [random.randint(0,len(sequence)) for _ in range(4)]
     
     chars = list(string.punctuation)
     chars.remove('-')
