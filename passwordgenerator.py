@@ -21,6 +21,10 @@ if not sys.argv[2].isdigit():
     print("fbpg error:{} must contain only digital values!".format(sys.argv[2]))
     exit(-1)
 
+if int(sys.argv[2]) < 8:
+    print("fbpg error: password length is too small! it should be 8 or higher!")
+    exit(-1)
+    
 j = lambda a,b: os.path.join(a,b) # simple shortcut to concatenate path values
 
 def get_size(f):
